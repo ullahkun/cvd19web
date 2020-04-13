@@ -789,4 +789,4 @@ for i in [2]:
 
 
 if __name__ == "__main__":
-    app.run_server(debug=True, port=2323)
+    app.run_server()
